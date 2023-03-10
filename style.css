@@ -1,5 +1,13 @@
+body{
+    margin:0px;
+    padding:0px;
+
+}
+
+
 h1 {
     font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
 }
 
 h2 {
@@ -7,6 +15,23 @@ h2 {
 
 }
 
-.img{
-    size: 500px;
+img{
+    /* width: 80vw; */
+    width: 100%;
+}
+
+.container{
+    background-color: pink;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+
+.containerbottom{
+    background-color:black;
+    padding-right: 30px;
+    padding-left: 30px;
+
+    color: white;
+
 }
